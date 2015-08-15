@@ -1,0 +1,3 @@
+LM35	KEYWORD1
+getCelsius	KEYWORD2
+getFahrenheit	KEYWORD2
